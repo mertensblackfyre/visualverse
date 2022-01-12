@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amr8644&label=Profile%20views&color=0e75b6&style=flat" alt="amr8644" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amr8644" alt="amr8644" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/amr_ashebo" target="blank"><img src="https://img.shields.io/twitter/follow/amr_ashebo?logo=twitter&style=for-the-badge" alt="amr_ashebo" /></a> </p>
 
 - 📫 How to reach me **amr8644@gmail.com**
 
