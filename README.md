@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Ashebo</h1>
-<h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
+<h3 align="center">A passionate fullstack developer from Saudi Arabia</h3>
 
 - 📫 How to reach me **amr8644@gmail.com**
 
