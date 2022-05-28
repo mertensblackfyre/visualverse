@@ -9,7 +9,7 @@ Software Engineer
 * ✉️  You can contact me at [amrashebo09@gmail.com](mailto:amrashebo09@gmail.com)
 * 🧠  I'm learning C/C++
 
-<a href="https://www.twitter.com/ashebo_amr" target="_blank" rel="noreferrer"><img
+<a href="[https://www.twitter.com/ashebo_amr](https://twitter.com/ashebo_amr)" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/amr_8644?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
