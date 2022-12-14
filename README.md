@@ -7,7 +7,7 @@ Back-end Developer
 I started learning to code last year using JavaScript and C.
 
 * 🌍  I'm based in Saudi Arabia
-* 🧠  I'm learning Golang with Echo Framework
+* 🧠  I'm learning Golang
 
 <a href="https://www.twitter.com/amr_ashebo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/amr_ashebo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
