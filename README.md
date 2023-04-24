@@ -1,39 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amr Ashebo
-==================================================================================================================================
+<h1 align="center">Hi 👋, I'm Amr Ashebo</h1>
+<h3 align="center">A developer</h3>
 
-Back-end Developer
-------------------
+<p align="left"> <a href="https://twitter.com/ashebo_amr" target="blank"><img src="https://img.shields.io/twitter/follow/ashebo_amr?logo=twitter&style=for-the-badge" alt="ashebo_amr" /></a> </p>
 
-* 🌍  I'm based in Saudi Arabia
-
-<a href="https://www.github.com/amr8644" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/amr8644?logo=github&style=for-the-badge&color=444e59&labelColor=0f172a" /></a><a href="https://www.twitter.com/ashebo_amr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ashebo_amr?logo=twitter&style=for-the-badge&color=444e59&labelColor=0f172a"
-/></a>
-
-### Skills
-
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://twitter.com/ashebo_amr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashebo_amr" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amr8644&show_icons=true&locale=en&layout=compact" alt="amr8644" /></p>
 
-<p align="left"> <a href="https://www.github.com/amr8644" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ashebo_amr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amr8644&show_icons=true&locale=en" alt="amr8644" /></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/amr8644"><img src="https://github-readme-stats.vercel.app/api?username=amr8644&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=0f172a&hide_border=true&show_icons=true" alt="amr8644's GitHub stats" /></a>
-
-<a href="http://www.github.com/amr8644"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amr8644&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/amr8644"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=amr8644&bg_color=0f172a&color=ffffff&line=444e59&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/amr8644" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr8644&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amr8644&" alt="amr8644" /></p>
