@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amr Ashebo</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">A developer</h3>
 
 <p align="left"> <a href="https://twitter.com/ashebo_amr" target="blank"><img src="https://img.shields.io/twitter/follow/ashebo_amr?logo=twitter&style=for-the-badge" alt="ashebo_amr" /></a> </p>
