@@ -5,7 +5,6 @@ Developer
 ---------
 
 * 🌍  I'm based in Middle East
-* 🧠  I'm learning Qwik JS
 
 ### Skills
 
