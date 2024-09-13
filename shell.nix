@@ -2,13 +2,16 @@ let
   pkgs = import <nixpkgs> {};
 in
   pkgs.mkShell {
-    packages = [
-      pkgs.leptonica
-      pkgs.gcc
+    nativeBuildInputs = [
       pkgs.gdb
-      pkgs.tesseract4
+      pkgs.pkg-config
       pkgs.cmake
       pkgs.meson
       pkgs.ninja
+    ];
+
+    buildInputs = [
+      pkgs.leptonica
+      pkgs.tesseract4
     ];
   }
