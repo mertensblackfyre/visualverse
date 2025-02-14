@@ -12,7 +12,7 @@ pkg_check_modules(leptonica IMPORTED_TARGET lept)
 pkg_check_modules(tesseract4 IMPORTED_TARGET tesseract)
 
 # Add your source files here
-add_executable(visualverse main.cxx)
+add_executable(visualverse main.cc)
 
 target_link_libraries(visualverse
   PkgConfig::leptonica
