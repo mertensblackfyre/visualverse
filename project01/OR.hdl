@@ -1,0 +1,8 @@
+
+CHIP Or {
+    IN a, b;
+    OUT out;
+
+    PARTS:
+    //// Replace this comment with your code.
+}
