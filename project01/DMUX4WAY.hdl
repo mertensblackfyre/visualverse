@@ -1,0 +1,16 @@
+CHIP DMux4Way {
+    IN in, sel[2];
+    OUT a, b, c, d;
+
+    PARTS:
+    Dmux(in=in, sel=sel[0],a=a1,b=b1);
+    Dmux(in=in, sel=sel[0],a=c1,b=d1);
+
+    Dmux(in=in, sel=sel[1],a=a2,b=b2);
+    Dmux(in=in, sel=sel[1],a=c2,b=d2);
+
+And(a=a1,b=b1,out=a);
+And(a=c1,b=d1,out=b);
+And(a=a2,b=b2,out=c);
+And(a=c2,b=d2,out=d);
+    }
