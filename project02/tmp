@@ -1,6 +1,0 @@
-a
-
-
-  Mux16(a=x1, b=false, sel=zx , out=tmpx);
-    Not16(in=tmpx , out=x2);
-

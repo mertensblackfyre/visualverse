@@ -19,26 +19,28 @@ CHIP ALU {
 
     // nx logic, i suppose
     Not16(in=x1 , out=tmpx);
-    Mux16(a=tmpx, b=x1, sel=nx , out=x2);
+    Mux16(a=x1, b=tmpx, sel=nx , out=x2);
 
     // zy logic, i suppose
     Mux16(a=y, b=false, sel=zy , out=y1);
+
     // ny logic, i suppose
     Not16(in=y1 , out=tmpy);
-    Mux16(a=tmpy, b=y1, sel=ny , out=y2);
+    Mux16(a=y1, b=tmpy, sel=ny , out=y2);
 
     // f logic
-    And16(a=x1, b=y1 , out=comxy);
-    Add16(a =x1, b =y2, out= addxy);
+    And16(a=x2 b=y2 , out=comxy);
+    Add16(a =x2, b=y2, out= addxy);
     Mux16(a=comxy, b=addxy, sel=f, out=xy);
 
-    // n logic
+    // no logic
     Not16(in=xy , out=negdout );
-    Mux16(a=xy, b=negdout, sel=no, out=out1);
-    Mux16(a=xy, b=negdout, sel=no, out=out);
-    // zr
-    Not(in=true, out=tr);
-    Not(in=false , out=fr);
-    Mux16(a[0]=tr, b[0]=fr , sel=out1[0], out[0]=zr);
+    Mux16(a=xy, b=negdout, sel=no,out=out, out[0..7]=out0to7, out[8..15]=out8to15, out[15]=ng);
+    
+    // if (out == 0) set zr = 1
+    Or8Way (in=out0to7, out=or0to7);
+    Or8Way (in=out8to15, out=or8to15);
+    Or (a=or0to7, b=or8to15, out=or0to16);
+    Not (in=or0to16, out=zr);
     
 }
